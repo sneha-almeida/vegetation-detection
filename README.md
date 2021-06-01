@@ -12,4 +12,5 @@ The system works in following steps:
   d) Area under vegetation depeicted using a Pie Chart
 6) An email sent with the PDF as attachment to the user(on the email ID mentioned in step 1) 
 
-The generated PDF is here . 
+The generated PDF is here 
+https://github.com/sneha-almeida/vegetation-detection/blob/main/1_updated_details.pdf. 
